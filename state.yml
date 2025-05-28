@@ -1,6 +1,6 @@
 active: 1
 auction: null
-bank_money: 115860
+bank_money: 116000
 board:
 - name: go
   type: go
@@ -97,7 +97,7 @@ board:
   level: 0
   mortgaged: false
   name: St. Charles Place
-  owner: null
+  owner: erick
   rent:
   - 10
   - 50
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: post-roll
+phase: doubles-check
 players:
   erick:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1500
+    money: 1360
     position: 11
     url: git@github.com:elavoie/monopoly.git
   luca:
