@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: roll
+phase: post-roll
 players:
   erick:
     bankrupt: false
@@ -429,6 +429,6 @@ players:
     in_jail: false
     jail_time: 0
     money: 1500
-    position: 0
+    position: 4
     url: git@github.com:lgloor/m1.git
 winner: null
