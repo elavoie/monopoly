@@ -408,12 +408,12 @@ community_chest:
 - type: goojf_cc
 debt: null
 free-4-all-order: null
-goojf_cc_owner: null
+goojf_cc_owner: erick
 goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: post-roll
+phase: doubles-check
 players:
   erick:
     bankrupt: false
