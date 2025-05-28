@@ -1,19 +1,6 @@
 active: 1
-auction:
-  asset: 16
-  initiator: erick
-  players:
-    erick:
-      bid: 30
-      last-action: change
-      round: 4
-      winner: erick
-    luca:
-      bid: 25
-      last-action: pass
-      round: 3
-      winner: erick
-bank_money: 116200
+auction: null
+bank_money: 116230
 board:
 - name: go
   type: go
@@ -165,7 +152,7 @@ board:
   level: 0
   mortgaged: false
   name: St. James Place
-  owner: null
+  owner: erick
   rent:
   - 14
   - 70
@@ -426,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: auction
+phase: doubles-check
 players:
   erick:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1360
+    money: 1330
     position: 16
     url: git@github.com:elavoie/monopoly.git
   luca:
