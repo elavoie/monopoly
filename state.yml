@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: pre-roll
+phase: roll
 players:
   erick:
     bankrupt: false
