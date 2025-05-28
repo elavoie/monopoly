@@ -7,7 +7,7 @@ auction:
       bid: 30
       last-action: change
       round: 4
-      winner: unknown
+      winner: erick
     luca:
       bid: 25
       last-action: pass
