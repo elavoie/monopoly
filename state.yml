@@ -5,8 +5,8 @@ auction:
   players:
     erick:
       bid: 30
-      last-action: bid
-      round: 3
+      last-action: change
+      round: 4
       winner: unknown
     luca:
       bid: 25
