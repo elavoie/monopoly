@@ -12,7 +12,7 @@ auction:
       bid: 25
       last-action: pass
       round: 3
-      winner: unknown
+      winner: erick
 bank_money: 116200
 board:
 - name: go
