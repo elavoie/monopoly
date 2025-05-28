@@ -1,6 +1,6 @@
 active: 1
 auction: null
-bank_money: 116490
+bank_money: 116730
 board:
 - name: go
   type: go
@@ -233,7 +233,7 @@ board:
   level: 0
   mortgaged: false
   name: Illinois Avenue
-  owner: null
+  owner: erick
   rent:
   - 20
   - 100
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: post-roll
+phase: doubles-check
 players:
   erick:
     bankrupt: false
     consecutive_doubles: 1
     in_jail: false
     jail_time: 0
-    money: 1330
+    money: 1090
     position: 24
     url: git@github.com:elavoie/monopoly.git
   luca:
