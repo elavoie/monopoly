@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: pre-roll
+phase: post-roll
 players:
   erick:
     bankrupt: false
@@ -425,10 +425,10 @@ players:
     url: git@github.com:elavoie/monopoly.git
   luca:
     bankrupt: false
-    consecutive_doubles: 0
+    consecutive_doubles: 1
     in_jail: false
     jail_time: 0
     money: 1300
-    position: 4
+    position: 10
     url: git@github.com:lgloor/m1.git
 winner: null
