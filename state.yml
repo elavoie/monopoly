@@ -9,8 +9,8 @@ auction:
       round: 2
       winner: unknown
     luca:
-      bid: 21
-      last-action: change
+      bid: 25
+      last-action: bid
       round: 2
       winner: unknown
 bank_money: 116200
