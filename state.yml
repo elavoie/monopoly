@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 116000
+bank_money: 116200
 board:
 - name: go
   type: go
@@ -184,7 +184,7 @@ board:
   level: 0
   mortgaged: false
   name: New York Avenue
-  owner: null
+  owner: luca
   rent:
   - 16
   - 80
@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: post-roll
+phase: doubles-check
 players:
   erick:
     bankrupt: false
@@ -428,7 +428,7 @@ players:
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1300
+    money: 1100
     position: 19
     url: git@github.com:lgloor/m1.git
 winner: null
