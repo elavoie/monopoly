@@ -10,8 +10,8 @@ auction:
       winner: unknown
     luca:
       bid: 21
-      last-action: stand
-      round: 1
+      last-action: change
+      round: 2
       winner: unknown
 bank_money: 116200
 board:
