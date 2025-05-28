@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 116230
+bank_money: 116490
 board:
 - name: go
   type: go
@@ -268,7 +268,7 @@ board:
   level: 0
   mortgaged: false
   name: Ventnor Avenue
-  owner: null
+  owner: luca
   rent:
   - 22
   - 110
@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: post-roll
+phase: doubles-check
 players:
   erick:
     bankrupt: false
@@ -428,7 +428,7 @@ players:
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1100
+    money: 840
     position: 27
     url: git@github.com:lgloor/m1.git
 winner: null
