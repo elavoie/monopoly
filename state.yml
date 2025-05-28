@@ -4,8 +4,8 @@ auction:
   initiator: erick
   players:
     erick:
-      bid: 0
-      last-action: change
+      bid: 20
+      last-action: bid
       round: 0
       winner: unknown
     luca:
