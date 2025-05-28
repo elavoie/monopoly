@@ -1,5 +1,18 @@
 active: 1
-auction: null
+auction:
+  asset: 16
+  initiator: erick
+  players:
+    erick:
+      bid: 0
+      last-action: change
+      round: 0
+      winner: unknown
+    luca:
+      bid: 0
+      last-action: change
+      round: 0
+      winner: unknown
 bank_money: 116200
 board:
 - name: go
@@ -413,7 +426,7 @@ goojf_ch_owner: null
 order:
 - luca
 - erick
-phase: post-roll
+phase: auction
 players:
   erick:
     bankrupt: false
